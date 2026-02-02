@@ -27,13 +27,13 @@ Ready-to-use messages for sharing:
 💝 Create your own Valentine's website for free! No coding required!
 🎁 Fully customizable, easy to deploy with your own website name
 ✨ Try it now: https://github.com/ianjiteshan/valentine2026
-#ValentinesDay2025 #WebDev #GitHub #Love
+#ValentinesDay2026 #WebDev #GitHub #Love
 ```
 
 **Instagram/Facebook**
 
 ```
-💝 Make Valentine's Day 2025 unforgettable!
+💝 Make Valentine's Day 2026 unforgettable!
 Create your own interactive Valentine's website in minutes - completely FREE!
 ✨ No coding required
 🎨 Fully customizable
@@ -250,7 +250,7 @@ Find more emojis at:
 
 ## 💖 Credits
 
-Created with love for Valentine's Day 2025.
+Created with love for Valentine's Day 2026.
 Feel free to use and modify for your special someone!
 
 \- Louis Fontaine -
