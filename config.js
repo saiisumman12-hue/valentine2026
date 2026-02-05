@@ -22,7 +22,7 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "would let me slap?",                                    // First interaction
+            text: "would you let me slap YOU?",                                    // First interaction
             yesBtn: "Yes",                               
             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
